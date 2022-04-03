@@ -1,1 +1,2 @@
-# Rock-Paper-Scissors
+Created a simple Rock, Paper, Scissors game with html, and JavaScript. Created based on lesson from The Odin Project from the following link
+https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors. Utilized DOM manipulation.
